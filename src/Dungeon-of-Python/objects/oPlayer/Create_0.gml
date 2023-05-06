@@ -1,2 +1,2 @@
-moveSpeed = 32;
+moveSpeed = 16;
 
